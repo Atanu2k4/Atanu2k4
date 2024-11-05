@@ -9,7 +9,7 @@ I'm a **second-year B.Tech student** majoring in **Computer Science and Engineer
 
 I'm currently diving into the world of **web development** and **graphic design** 🎨. I love the creativity and technical challenges that come with building and designing web applications 🌐. Exploring the latest technologies and frameworks, I'm eager to develop innovative solutions that blend functionality and aesthetics.
 
-💻 I have a basic knowledge of **C and C++** and am familiar with the syntax of **Python**. These languages have given me a solid foundation to explore more complex concepts in computer science and software development.
+💻 I have a basic knowledge of C, C++, and JavaScript, along with familiarity with Python syntax. These languages have given me a solid foundation to explore more complex concepts in computer science and software development.
 
 In my free time, I enjoy solving different types of **puzzles** and the **Rubik's Cube** 🧩. These hobbies not only keep me engaged but also sharpen my problem-solving skills, which are invaluable in programming and technical challenges.
 
