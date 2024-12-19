@@ -36,6 +36,6 @@ Feel free to connect with me here on GitHub or through other platforms. 🚀
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Atanu2k4&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Atanu2k4&theme=tokyonight&hide_border=false)<br/>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=Atanu2k4&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu2k4&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
