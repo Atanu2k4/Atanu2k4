@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 75%" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F64.media.tumblr.com%2F816fd71d6f4573758886cc24a9363a3c%2Fc17132716f2dd09c-3b%2Fs540x810%2F5d2e4992f60bea30254d6ce2f4f8fe969a37dcc4.gif&f=1&nofb=1&ipt=be73aac1db170efa8cae161d5d6250ff3a621759f075f414d451c87e474439c8" style="width: 75%" />
 </div>
 
 # 💫 About Me:
